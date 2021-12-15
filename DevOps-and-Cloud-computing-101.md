@@ -1,5 +1,6 @@
-# DevOps and Cloud Engineer 101
+<p style="text-align: center;"># DevOps and Cloud Engineer 101 </p>
 
+# Test {style=text-align:center} 
 ### Aim:
 > On completion of this course the participant will gain in-depth knowledge about Cloud Computing and related modern IT skills such as, Amazon Web Services (AWS), Source control system (GIT), Modern Serverless Architecture (AWS Lambda), Docker Containerization, (Ansible) Configuration management system, Fundamentals about API’s, Linux operating system and BASH Scripting.
 
