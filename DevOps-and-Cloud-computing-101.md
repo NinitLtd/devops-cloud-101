@@ -5,6 +5,9 @@
 
 > Participants will be confident around concepts of modern software delivery life cycle (SDLC) along with installation and management of basic services in the cloud. This course is designed for anyone who is interested in kick starting their IT career. Delegates will gain good hands-on experience to get a job with a good long term career opportunity. Most of the technical concepts will be taught using local virtual systems and containerisation to minimise cost.
 
+![Knowledge is power](./DevOps-ninit-banner.png)
+
+
 ### The delegate will acquire essential knowledge which will help them to become a good:
 * DevOps Engineer.
 * Build and Release Engineer.
