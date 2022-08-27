@@ -89,13 +89,13 @@ Download / Install Git						(10 mins)
 * Prepare a simple pipeline and test it.		(30 mins)
 
 ### AWS (Amazon web services) Part 2 (Theory + Practical ):
-* VPC (Virtual private cloud)					(30 mins)
- - Subnets, Security Groups, Access Control		(30 mins)
+* VPC (Virtual private cloud)	(30 mins)
+ 	- Subnets, Security Groups, Access Control		(30 mins)
 * S3 (Simple storage services)					(30 mins)
 * Setup a static website on S3 bucket without webserver		(20 mins)
 * ELB (Elastic Load Balancer)						(45 mins)
- - What is Load balancer and its importance
- - Setup simple web server and configure with ELB
+ 	- What is Load balancer and its importance
+ 	- Setup simple web server and configure with ELB
 * ALB (Application Load Balancer) & Target Groups			(60 mins)
 * RDS (RDBMS Database service)					(60 mins)
 * DynamoDB (NoSQL Database server)				(30 mins)
