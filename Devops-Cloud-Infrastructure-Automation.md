@@ -1,6 +1,10 @@
 # :DevOps and Cloud Engineer - Essentials:
 ### {Infrastructure as Code (IaC) / software defined infrastructure (SDI)}
 **Learn from experienced and  certified professionals**
+**Contact us :**
+
+    Email:  ninitltd@ninit.tech, ninitltd@gmail.com
+    Contact: +44 07904500068
 
 ### Aim:
 > This course is designed for those individuals and/or groups who are interested in learning modern ways of provisioning Infrastructure resources such as virtual servers, containers, databases,  data stores (storage), firewalls, virtual private clouds, virtual private networks, subnets, kubernetes resources,  etc. On completion of this course, participants will gain hands-on experience on preparing / writing code to build datacenter(s) from scratch. You will be able to provision and manage global infrastructure while working comfortably from any remote location.
@@ -144,5 +148,10 @@ Linked in profile : https://uk.linkedin.com/in/nileshbarot
 
 ### Duration of the course : 3 - 4 Months
 ### Schedule :
-	* Every Sunday ; 10:00 am - 12:30 pm
+	* Every Sunday : 10:00 am - 12:30 pm
 	* Additional support sessions : During weekdays in evening as per students convenience.
+	* Contact us :
+
+	    Email:  ninitltd@ninit.tech, ninitltd@gmail.com
+
+	    Contact: +44 07904500068
